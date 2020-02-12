@@ -19,5 +19,6 @@ public class SphereVolume {
 
         System.out.println("The volume of the sphere is " + volume);
 
+	userInput.close();
     }
 }

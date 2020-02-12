@@ -44,5 +44,6 @@ public class test {
         //Task #2 print the user’s temperature in Celsius
         System.out.println(output);
         System.out.println("Goodbye"); // to show that the program is ended
+	userInput.close();
     }
 }
